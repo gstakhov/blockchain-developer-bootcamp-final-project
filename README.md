@@ -22,7 +22,7 @@ Even if the hubris-heavy idea of anything we create being truly *permanent* is a
 
 ## How it's going
 
-This project attempts to introduce the idea of time and access limits to distributed storage artifacts. Users will be able to grant access to their files (potentially an NFT use case?) and will be able to assign metadata to the file. Part of the metadata componentry will be the ability to select a retention period (days/months/years). After the retention period elapses, any access keys will be crypt-shredded.  
+This project attempts to introduce the idea of time and access limits to distributed storage artifacts. Users will be able to grant access to their files (potentially an NFT use case?) and will be able to assign metadata to the file. Part of the metadata componentry will be the ability to select a retention period (days/months/years). After the retention period elapses, any access keys will be crypto-shredded.  
 
 The following artifacts will be supported in this initial use case:
 
